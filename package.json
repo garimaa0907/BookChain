@@ -1,0 +1,26 @@
+{
+  "name": "bookchain",
+  "version": "1.0.0",
+  "description": "it contains my project of bookchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garimaa0907/BookChain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garimaa0907/BookChain/issues"
+  },
+  "homepage": "https://github.com/garimaa0907/BookChain#readme",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.0",
+    "nodemon": "^2.0.20"
+  }
+}
